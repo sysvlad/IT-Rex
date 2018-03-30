@@ -1,0 +1,23 @@
+PODS:
+  - PermissionsService/Camera (0.9.5):
+    - PermissionsService/Core
+  - PermissionsService/Core (0.9.5)
+  - PermissionsService/Gallery (0.9.5):
+    - PermissionsService/Core
+  - PermissionsService/Location (0.9.5):
+    - PermissionsService/Core
+  - PermissionsService/MediaLibrary (0.9.5):
+    - PermissionsService/Core
+
+DEPENDENCIES:
+  - PermissionsService/Camera
+  - PermissionsService/Gallery
+  - PermissionsService/Location
+  - PermissionsService/MediaLibrary
+
+SPEC CHECKSUMS:
+  PermissionsService: 2ea1daa0445109cf23d9333f7e9a09d02d05fc53
+
+PODFILE CHECKSUM: 05b8977fdc045333bae19a2e11faee68cb4d58d7
+
+COCOAPODS: 1.4.0
